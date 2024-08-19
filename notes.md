@@ -1,7 +1,7 @@
 # V is currently working on learning _Python Syntax!_
 
 ## W3schools python course progress ##
-## Python Tutorials ##
+### Python Tutorials ###
 >
 `- []` ***Python Home***
 >
@@ -62,4 +62,37 @@
 `- []` ***Python Dates***
 >
 `- []` ***Python String Formatting***
+>
+## Python File Handling ##
+>
+`- []` ***Python File Handling***
+>
+`- []` ***Python Read Files***
+>
+`- []` ***Python Write/Create Files***
+>
+`- []` ***Python Delete Files***
+>
+## Module Reference##
+>
+`- []` ***Python Overview***
+>
+`- []` ***Python Built-IN-Functions***
+>
+`- []` ***Python String Methods***
+>
+`- []` ***Python List Methods***
+>
+`- []` ***Python Dictionary Methods***
+>
+`- []` ***Python Tuple Methods***
+>
+`- []` ***Python Set Methods***
+>
+`- []` ***Python File Methods***
+>
+`- []` ***Python Exceptions***
+>
+`- []` ***Python Glossary***
 
+" " * 10> "I hope this goes in the middle test"
