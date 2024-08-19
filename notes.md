@@ -1,8 +1,5 @@
 # V is currently working on learning _Python Syntax!_
-hello
 
-this is so confusing but take 2 of me learning how to use notes and commits on git
+#W3schools python course progress#
 
-**W3 schools python course progress** 
-
--[] testing 123
+`-[]` testing 123
