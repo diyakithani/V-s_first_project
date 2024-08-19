@@ -3,7 +3,7 @@
 ## W3schools python course progress ##
 ### Python Tutorials ###
 >
-`- []` ***Python Home***
+`- [x]` ***Python Home***
 >
 `- []` ***Python Intro***
 >
