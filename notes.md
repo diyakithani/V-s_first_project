@@ -3,14 +3,23 @@
 ##W3schools python course progress##
 
 `- []` ***Python Home***
+>
 `- []` ***Python Intro***
+>
 `- []` ***Python Get Started***
+>
 `- []` ***Python Syntax***
+>
 `- []` ***Python Comments***
+>
 `- []` ***Python Variables***
+>
 `- []` ***Python Data Types***
+>
 `- []` ***Python Numbers***
+>
 `- []` ***Python Castings***
+>
 `- []` ***Python Strings***
 `- []` ***Python Booleans***
 `- []` ***Python Operators***
