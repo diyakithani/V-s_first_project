@@ -2,8 +2,7 @@
 
 ## W3schools python course progress ##
 ## Python Tutorials ##
-
-<span style="color:red"> ## Python Tutorials ## </span>
+>
 `- []` ***Python Home***
 >
 `- []` ***Python Intro***
