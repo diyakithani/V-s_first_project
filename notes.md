@@ -96,6 +96,6 @@
 `- []` ***Python Glossary***
 
 <div align="center">
-  <h1>I hope this goes in the center</h1>
+  <h1>This is merely just a checklist to keep my progress up but i'll be making new readme files to actually write what i've learnt on each of these check points</h1>
 </div>
 
