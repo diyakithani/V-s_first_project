@@ -95,4 +95,7 @@
 >
 `- []` ***Python Glossary***
 
-" " * 10> "I hope this goes in the middle test"
+<div align="center">
+  <h1>I hope this goes in the center</h1>
+</div>
+
